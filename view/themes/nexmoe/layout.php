@@ -30,6 +30,10 @@
 	
 	<div class="mdui-container">
 	    <div class="mdui-container-fluid">
+		<div class="mdui-container-fluid">
+                 <div class="mdui-toolbar nexmoe-item">
+			<a>注意事项：请等待网页加载完成后进行文件下载及预览！部分视频无法在线观看请下载！</a>
+		</div>
 	    <div class="mdui-toolbar nexmoe-item">
 			<a href="/"><?php e(config('site_name'));?></a>
 			<?php foreach((array)$navs as $n=>$l):?>
