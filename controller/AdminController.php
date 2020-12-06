@@ -4,7 +4,7 @@ class AdminController{
 	static $default_config = array(
 	  'site_name' =>'OneIndex',
 	  'site_name_small' =>'',
-	  'password' => 'MintimateBlog',
+	  'password' => '1594959462',
 	  'style'=>'nexmoe',
 	  'onedrive_root' =>'',
 	  'except_path' =>'',
