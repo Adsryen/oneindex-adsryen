@@ -4,7 +4,7 @@
 
 OneindexN项目地址：https://github.com/xieqifei/OneindexN
 
-管理员密码：MintimateBlog
+管理员密码：1594959462
 
 ![](https://cdn.jsdelivr.net/gh/Mintimate/OneindexM/demo/demo.png)
 
